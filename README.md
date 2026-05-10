@@ -30,11 +30,14 @@ This project allows users to convert RGB color values into hexadecimal format wi
 
 ## 📷 Preview
 
-<img width="600" alt="Project Preview" src="./preview.png">
+| Homepage | Converted Color |
+|---|---|
+|
+| <img width="300" src="./img/img01.jpeg"> | <img width="300" src="./img/img02.jpeg"> |
 
-> Replace `preview.png` with your actual screenshot file.
-
----
+| Empty Input | Wrong Value |
+|---|---|
+| <img width="300" src="./img/img03.jpeg"> | <img width="300" src="./img/img04.jpeg"> |
 
 ## 🚀 How to Run
 
