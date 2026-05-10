@@ -32,7 +32,6 @@ This project allows users to convert RGB color values into hexadecimal format wi
 
 | Homepage | Converted Color |
 |---|---|
-|
 | <img width="300" src="./img/img01.jpeg"> | <img width="300" src="./img/img02.jpeg"> |
 
 | Empty Input | Wrong Value |
